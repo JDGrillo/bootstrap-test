@@ -1,9 +1,17 @@
-.block-blue {
-    height: 10em;
-    background-color: blue;
+.navigation {
+    height: 3em;
+    background-color: lightgrey;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    text-align: center;
 }
 
-.block-red {
-    height: 10em;
-    background-color: red;
+.title {
+    text-align: center;
+    font-size: 5em;
+}
+
+.center {
+    text-align: center;
 }
